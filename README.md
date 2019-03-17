@@ -1,3 +1,3 @@
-# grid_practice
+# css_grid
 
-a bit of practice using CSS Grid
+had fun learning css grid
